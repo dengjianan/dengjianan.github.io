@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title><![CDATA[express基本概念]]></title>
+      <url>http://yoursite.com/2016/10/07/express%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/</url>
+      <content type="html"><![CDATA[<h2 id="中间件"><a href="#中间件" class="headerlink" title="中间件"></a>中间件</h2><p>中间件是一个函数，可以访问请求对象，响应对象。功能如下：</p>
+<ul>
+<li>执行任何代码</li>
+<li>修改请求和响应对象</li>
+<li>终结请求-响应循环</li>
+<li>调用堆栈中的下一个中间件</li>
+</ul>
+]]></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[mongodb本地启动]]></title>
       <url>http://yoursite.com/2016/10/06/mongodb%E6%9C%AC%E5%9C%B0%E5%90%AF%E5%8A%A8/</url>
       <content type="html"><![CDATA[<h2 id="mongodb-本地启动"><a href="#mongodb-本地启动" class="headerlink" title="mongodb 本地启动"></a>mongodb 本地启动</h2><p>进入mongodb安装目录中的bin,比如我的mongodb安装在d:\MongoDB\bin</p>
