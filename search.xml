@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+    
+    <entry>
+      <title><![CDATA[mongodb本地启动]]></title>
+      <url>http://yoursite.com/2016/10/06/mongodb%E6%9C%AC%E5%9C%B0%E5%90%AF%E5%8A%A8/</url>
+      <content type="html"><![CDATA[<h2 id="mongodb-本地启动"><a href="#mongodb-本地启动" class="headerlink" title="mongodb 本地启动"></a>mongodb 本地启动</h2><p>进入mongodb安装目录中的bin,比如我的mongodb安装在d:\MongoDB\bin</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ mongod --dbpath=<span class="string">"d:\data\db"</span></div></pre></td></tr></table></figure>
+<p>进入mongodb安装目录中的bin,启动mongodb的服务</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ mongo</div></pre></td></tr></table></figure>
+<p>这样简单的两个命令就完成了mongodb本地启动</p>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[一个人的朝圣读后感]]></title>
+      <url>http://yoursite.com/2016/10/06/%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E6%9C%9D%E5%9C%A3%E8%AF%BB%E5%90%8E%E6%84%9F/</url>
+      <content type="html"><![CDATA[<p>哈罗德，六十岁，在酿酒厂干了四十年的销售代表，没有升迁，既没有朋友，也无敌人，退休时公司甚至连欢送会都没有开。他跟妻子住在英国的乡间，生活平静，夫妻疏离，日复一日。一天早晨，他收到一封信，来自二十年未见的老友奎尼。她患了癌症，写信来告别。震惊、悲痛之下，哈罗德写了回信，在寄出的路上，他由奎尼想到了自己的人生，经过一个由一个邮筒，越走越远，最后，他从英国最西南一路走到了最东北，横跨整个英格兰。87天，627英里，只凭一个信念：只要他走，老友就会活下去！这事哈罗德千里跋涉的故事。从他脚步迈开的那一刻起，与他六百多英里旅程并行的，是他穿越时光隧道的另一场旅行。</p>
+<p>每当阅读翻译过来的书籍都会比较费劲，所以就需要好好沉下心来阅读。一开始翻阅这本书的时候，对哈罗德的举止并不敢苟同。一个人怎么可以抛弃身上的责任，任凭内心之所想，开启这段不可思议的旅行呢。可能是还不习惯阅读先果后因的文章吧。</p>
+<p>收到奎尼的信让人震惊，又是多年不曾联系的好友，很多故事，也已经铺满了一层厚厚的灰尘了。倘若拂去这层灰，许多过去的点点滴滴就会慢慢地浮出水面了。与其说一个人的朝圣不如说是一个人的自我救赎。</p>
+<p>长途的徒步旅行，需要要有足够的信念，如果仅是加油站女孩说的，只要奎尼内心有所牵挂，即等待哈罗德的到来，那么她的生命就可以延续。单凭这个信念，恐怕难以让哈罗德坚持下来。一路走过来，哈罗德回忆起自己的人生，完全就是一个没有担当的人生，家庭教育失败，也没有守护好家庭，最终儿子离去，夫妻疏离。一辈子平平静静羡煞旁人，倘若去挖掘，就会发现所谓的平静不过是一种逃避。哈罗德，在酿酒厂连摔了纳比尔的东西都要奎尼去承担责任。由此可见这个人如果不救赎，留给他的只有悔恨与孤寂。后来，哈罗德的事迹被媒体曝光，也有越来越多的“朝圣者”加入这段旅行，然而这些“朝圣者”可不知道这段旅行的意义，他们只是认为这件事很励志而已。昨天听一个骑行爱好者讲述他的旅行，他希望人数越少越好。每个人旅行的目的不一样，而且人数越多，要考虑的事情很多，甚至在决定路线都会出现分歧。后期加入的“朝圣者”与哈罗德形同陌路，为哈罗德的旅途带来了不少麻烦，甚至快要失去哈罗德的初衷。</p>
+<p>最终奎尼顽强地等到了哈罗德的到来，当她离开的时候也很平静，完成了哈罗德的第一个救赎。其次哈罗德和妻子莫琳也完好如初，完成了最终的救赎。</p>
+<p>“一路上我记起了很多东西。很多我都没有意识到自己忘了的回忆。有戴维的，还有你和我的。我甚至记起了我母亲。有些回忆很不容易，但大部分都很美。我很害怕。我怕有一天，或许很快，我就会又它们弄丢，这一次永远都找不回来了”。</p>
+<p>除了良好的职业规划，人生的规划更为重要，不能将自己置于温室当中，走出来，多一点担当，多一点责任感。</p>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[影响力读后感]]></title>
+      <url>http://yoursite.com/2016/10/04/%E5%BD%B1%E5%93%8D%E5%8A%9B%E8%AF%BB%E5%90%8E%E6%84%9F/</url>
+      <content type="html"><![CDATA[<p>以前读书，极其渴望从中找到共鸣，在共鸣的过程中，我可以获得极大的满足感，便狂妄地断定这是一本好书。诚然，一本好书，不仅应该给自己带来满足感，还应该具有一定的影响力。</p>
+<p>近期读罗伯特.西奥迪尼的《影响力》，收获颇丰。不愿像观赏电视剧那样，获得满足感之后便寥寥收场。享受书中对人类心理活动的描述，一方面纠正自己的思维方式，另一方面解开社交关系的面纱。</p>
+<p>权威所具有的强大力量会影响我们的行为，即使是具有思考能力的成年人也会为了服从权威的命令做出完全丧失理智的事情。为了让大家了解权威，引用书中的例子来诠释什么事权威。受过正规培训的护理人员会毫不犹豫地执行来自医生的明明漏洞百出的指示。多年以来，我是深受权威的毒害。当然抗拒权威，并不是自信爆棚，并不是失去尊重。我们应该去接纳权威，但同时不能失去自我。我们也应该提升权威的标准，也敢断言，只要权威的标准提高了，就不容易失去自己的立场。</p>
+<p>与权威相仿，社会认同心理学同样是会毒害内心不够强大的人。社会认同原理认为，在判断何为正确时，我们会根据别人的意见行事，尤其是当我们在特定的情形下判断某一行为是否正确时，如果看到别人在某中场合做某件事，我们就会断定这样做事有道理的。当一个人面临抉择的时候，应当警惕社会认同心理学，应当有选择性地去对待别人给予的建议。不过，当自己尚未培养正确的人生观、价值观的话，就需要另当别论了。</p>
+<p>阅读《影响力》适逢刚入职，认识了许多的小伙伴。在此期间有幸了解了互惠心理学和喜好心理学。互惠原理认为我们应该尽量以类似的方式报答他们为我们所做的一切。如果人家施恩于你，你就应该以恩情报之，而不能以怨报德。古话说，投之以李报之以桃，滴水之恩当涌泉相报。其实也就是人心本善。然而我们身边这一有效的影响力武器，就被某些人利用了。并不是说一定要拒绝别人的小恩小惠，也不是说应该时刻警惕。拿出慧眼去看待这类行为，对你必然会有好处。</p>
+<p>喜好心理学认为我们大多数人总是更容易答应自己认识和喜爱的人所提出的要求。也有很多人愿意去相信自己的直觉，从而无法真正地去了解自己所喜好的人。我们会自动给长得好看的人或者学历高的人或者家庭背景良好的人添加一些正面的特点，比如有才、善良、城市、和聪明等。在非你莫属里李国庆说招人只招211以上的，这就是喜好在其中发挥的作用。再有一项研究表明，分两组试验，让两组人分别去观察一个长相一般的北大学子，也敢断言不知学历背景的那组和知道学历背景的那组，对待这个北大学子的喜好程度必然是天壤之别。这里并不是去阐述势利眼的含义，而是想说明喜好心理学的影响力。所以了解一个人需要淡定。</p>
+<p>我已经开始抱怨自己的写作能力了，就像奥运冠军傅园慧一样，我已使出洪荒之力了。只能推荐大家带着自己的生活阅历去阅读这本书，我相信大家一定也可以得到意想不到的收获。</p>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[皮囊读后感]]></title>
+      <url>http://yoursite.com/2016/10/03/%E7%9A%AE%E5%9B%8A%E8%AF%BB%E5%90%8E%E6%84%9F/</url>
+      <content type="html"><![CDATA[<p><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="http://music.163.com/outchain/player?type=2&id=41665696&auto=1&height=66"></iframe><br>前段时间，一个很少发朋友圈的朋友在朋友圈里推荐了皮囊这本书。自从珠海培训回来北京以后，或多或少被工作、不规律的生活所影响，并没有购置书籍来阅读。再加上工作以后，内心些许有点浮躁，总是那么的心神不宁，除了工作之外，并没有去好好审视自己的生活。所以也很庆幸这位朋友及时的推荐，让我内心获得了平静。</p>
+<h2 id="爱情"><a href="#爱情" class="headerlink" title="爱情"></a>爱情</h2><p>如果说提到父母爱情，我首先会想到的是由郭涛主演的《父母爱情》，那会儿更多的思绪是放在对自己未来的婚姻爱情上，没有认真去思考我父母的爱情，总是觉得他们一对农村夫妇，爱情对与他们来说，只是搭伙生活。这样错误的观点，归咎于自己缺乏表达能力，从而无法去感受一份看似普通的爱情。蔡崇达朴素的文字，让我沉寂于父母的爱情无法自拔，勾起了26年来的点点滴滴。母亲是一位刀子嘴豆腐心、爱唠叨的人，父亲则是语言精练、执行力极强的人。外公之前是乡村教师，爷爷则是吃了这顿愁了下顿。母亲是文盲，即便是夜校也没有去把握，因为害怕老师（现在有时候会练字写自己的名字，写我们的名字），父亲高中毕业。无论是从性格、家庭背景，还是教育背景，两个人根本就没有在一起的可能。听一位伯母说，30多年前的一个夜晚，父亲跟母亲去山上抓山洞，忘记是摔倒还是被蛇咬了，回来之后得到母亲的照顾，就这样他们擦出了爱情的火花。面对娇羞的母亲和严厉的父亲，这些事情我无法去考证，更别想从他们口中得到任何关于他们年轻时的爱情。老爸也知道老妈爱唠叨，总是会没完没了的，记得大二那年，十八舍门口，接到父亲的电话，那会儿父亲已经喝多了，父亲说，母亲一天学都没有上，我们要去理解，要多去关爱她，仿佛是陷入了无限循环似的。可能是父亲觉得我们三兄弟在那个时候，会厌倦母亲的唠叨吧，让我们去原谅他所爱的人，当然也有可能是他自己也觉得自己亏欠了母亲。生活当中，父亲真是有点大男人主义了，不沾家务就算了，最烦的是，每次洗澡总会问我母亲，我那件衣服放在哪里了，顾名思义，就是想让我母亲去帮她拿衣服了，而我母亲也会二话不说，帮他拿衣服。但是有一点让我佩服的是，目前所要求的必然是会得到满足的。研二那年，父亲外出做生意，办完事洗完澡把手机落在出租屋出去吃饭，母亲只知道父亲外出了，到晚上了，打了无数电话，没有人接。母亲打电话给大哥、二哥，最后找到了在北京实习的我，听到电话那边的哭泣声，那种绝望与无力直到现在都会让我哽咽。爱情是一种附有依赖性的情感，当依赖性要消失的时候，情感便会迸发。最喜欢母亲说父亲糗事的时候，父亲投以舒心的微笑；最喜欢每天早上母亲给父亲煮的鸡蛋茶(有时候，我会吃醋我为什么没有)；最喜欢他们在做微不足道的决定的拌嘴…我感到非常遗憾的是，从小学二年级开始，我就在学校住宿，每周只能在周末回家，错过了许多美好的年华。我也庆幸现在在我这个年纪能够去好好体验他们的爱情，虽然他们性格不合，虽然他们家庭背景不一样，虽然他们受教育程度迥异，但是他们对彼此的依赖，但是他们对共同责任(无论是房子，还是家庭支出)的承担都向我完美地诠释了什么叫做爱情。我感谢他们这份爱情，因为他们的这份爱情，我们才能得以茁壮的成长。</p>
+<p>厚扑以为通过拥有王子怡可以证明自己又突破了什么，而王子怡以为通过厚扑完成了对自我所拥有的一切反馈。而此时，作者也认识到了一个名叫张静宜的女孩，静宜的父亲曾对她说，不要看一个人的出生，要看一个人的可能性这是一个家族能不断发展壮大的关键，也是一个女人最重要的能力。静宜喜欢上崇达自然而然是很理所当然的事情了。而王子怡之于厚朴，则只是厚朴当下拥有子怡所希望拥有的自由。这两个女孩的家境都很优越，两个都是已经养出气质的家庭。略微不同的是，家庭教育的结果稍许不同。厚扑和崇达两个人的家境也相似。但是不同的是，厚扑在表面上是一个活出自我的人，但其实只是装出了个样子欺骗自己和别人。崇达依旧是那个务实的、低调的崇达。同样是草根，面对城市孩子般精明的两个女孩，一个是为了证明，一个则是搞清楚了自己是谁。前几天和一个同批入职的女同事，讨论关于爱情的事情。她认为喜欢一个人就是单纯的喜欢，没有什么条条框框。如果两个人互相都有单纯的喜欢，那么两个人是很容易一起坠入爱河，也会有一段羡煞旁人的热恋期，你侬我侬。现在给我的感悟就是，不可一直沉浸在最初那单纯的喜欢，也不可一味地去发现对方的优点，从而延长爱情的热恋期。我们需要从热恋中恢复理性，认真地去思考对方为什么喜欢自己，是否自己真是她所认为的那个他，如果不是怎么办，同时还需要去发现自己的优缺点，需要独善其身。否则这样的爱情容易失衡。这几天，重温逃学威龙2、大话西游之大圣娶亲，只是因为很喜欢朱茵，朱茵对待爱情就如同她那会说话的大眼睛一样，黑白分明。失衡后的爱情，到了实在无法挽留的时候，就不该强求了。你的强求只会让对方更加厌恶，也会丢失当初的那份单纯的喜欢。在茫茫的人海中相遇，不容易。当有一份爱情摆在你的面前的时候，一定要懂得珍惜，无论是对厚朴还是崇达。</p>
+<h2 id="榜样、别人家的孩子与权威"><a href="#榜样、别人家的孩子与权威" class="headerlink" title="榜样、别人家的孩子与权威"></a>榜样、别人家的孩子与权威</h2><p>榜样、别人家的孩子、权威，其实很多时候你所羡慕的人很多时候也在羡慕着你。26的年纪，初入职场，本科毕业的同学也都已经是三年工作经验的老油条了。当自己在职场中碰到问题，难免会想着从他们的身上去取经。学习本身是一件好事，但是如果没有形成自己独立的做事风格，那么只能任由他人左右你的人生观了。所以在学习之前，一定要提高自己的辩证思维。小时候的文展，是全村人的榜样，小伙伴们都希望能和文展一块玩。不可否认的是，文展在村子里确实是很优秀的，拥有很强的执行力，行事也很有目的性。随着文展完成进入城市的目标的时候，一切都变了。变得不是文展本身固有的优点。而是他陷入了自己的思维模式，没有办法去适应城市的环境，直至后来，从城市模式切换到农村模式，也没有让文展走出困境。“在我考上大学，也进入城市生活之后，我经常遇到和文展很像的人，他们一个个和我说着对未来的规划，和在故乡在中小学阶段的成功带给他们的无比信心。这样的人，还因为出身，总可以嗅到他们身上的泥土味。这使得他们的理想粗暴却淳朴，让人感觉不到野心勃勃或者城市孩子般的精明。”蔡崇达说，要感谢文展的是，我基本不太长远的事情，很多事情想大了会压得自己难受，我只想着做好一点点的事情，然后期待，这么以点点事或者许那天能累积成一个不错的景观。起码是自己喜欢的景观。面对这样一个榜样、别人家的孩子、权威，蔡崇达形成了如此鲜明的独立观点，从而走向了属于自己的人生。无论是农村玩伴的榜样，还是城市般精明的孩子，都应该是我们谦虚学习的标杆，但是在此之前，一定要形成一套属于自己的思维方式。为避免盲目，还需要脚踏实地、需要不断从书籍和更优秀的人中学习。</p>
+<p>厚朴充满hope，但不够务实。“他在说这些话的时候，大概以为自己是马丁路德金，那么贫瘠的想象力，连想象的样本都是中学课本的”。这句话感触颇深，人在汲取书中精华之后，要及时跳出来，实事求是，付出实践，形成认知。想要务实很难，就像火箭发射的时侯，在高空必须完成的一次一次定点推送一样，每一次定点推送的间隔可能会很长，所以人不应时刻强调自己的存在感，为人处事应低调(或许并没有高调的资格)，梦想只是卑微的执着，当看到梦想背后那荒杂、繁琐的要求是，是否会有耐心、是否具有能力、是否有足够的接受度。</p>
+<h2 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h2><p>人流露出感情的方式除了表情外，语言的组织能力，文字的表达能力都能很好的把感情描述的特别细腻。很伤心，我是一个不善言辞的人，只能通过别人的文字来发泄自己内心的澎湃。很庆幸，阅读了皮囊，它让我体验到了父母爱情的美好、端正了自己的爱情观；在向别人家的孩子取经，在权威的面前，一定要有辩证思维，要不断开拓自己的视野，打开顺应时代的格局。在烦躁的年代里，我们更需要的是务实。</p>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[hexo进阶]]></title>
+      <url>http://yoursite.com/2016/10/02/hexo%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/</url>
+      <content type="html"><![CDATA[<h3 id="搭建-hexo，在执行-hexo-deploy-后-出现-error-deployer-not-found-github-的错误"><a href="#搭建-hexo，在执行-hexo-deploy-后-出现-error-deployer-not-found-github-的错误" class="headerlink" title="搭建 hexo，在执行 hexo deploy 后,出现 error deployer not found:github 的错误"></a>搭建 hexo，在执行 hexo deploy 后,出现 error deployer not found:github 的错误</h3><p>解决办法：</p>
+<p>执行npm install hexo-deployer-git –save<br>修改_config.yml文件<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">deploy:  <span class="built_in">type</span>: git</div></pre></td></tr></table></figure></p>
+<h3 id="如何在hexo博客中插入网易云音乐"><a href="#如何在hexo博客中插入网易云音乐" class="headerlink" title="如何在hexo博客中插入网易云音乐"></a>如何在hexo博客中插入网易云音乐</h3><ol>
+<li><p>打开网易云音乐<em>网页版本</em></p>
+</li>
+<li><p>生成外链播放器，copy其中的html代码</p>
+</li>
+<li><p>将拷贝过来的代码粘贴到你想放置的位置(文章开头or结尾)</p>
+</li>
+</ol>
+<figure class="highlight html"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="tag">&lt;<span class="name">iframe</span> <span class="attr">frameborder</span>=<span class="string">"no"</span> <span class="attr">border</span>=<span class="string">"0"</span> <span class="attr">marginwidth</span>=<span class="string">"0"</span> <span class="attr">marginheight</span>=<span class="string">"0"</span> <span class="attr">width</span>=<span class="string">330</span> <span class="attr">height</span>=<span class="string">86</span> <span class="attr">src</span>=<span class="string">"http://music.163.com/outchain/player?type=2&amp;id=41665696&amp;auto=1&amp;height=66"</span>&gt;</span><span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></div></pre></td></tr></table></figure>
+<h3 id="hexo添加搜索"><a href="#hexo添加搜索" class="headerlink" title="hexo添加搜索"></a>hexo添加搜索</h3><p>本人使用Local Search</p>
+<ol>
+<li><p>安装相应插件</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ npm install hexo-generator-search --save</div></pre></td></tr></table></figure>
+</li>
+<li><p>在站点配置文件中修改配置</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">search:</div><div class="line">  path: search.xml</div><div class="line">  field: post</div></pre></td></tr></table></figure>
+</li>
+</ol>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Hello World]]></title>
+      <url>http://yoursite.com/2016/10/02/hello-world/</url>
+      <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    </entry>
+    
+  
+  
+</search>
